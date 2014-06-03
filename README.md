@@ -2,7 +2,9 @@ How To Make the Free Culture
 ====================
 
 フリーカルチャーをつくるためのガイドブック
+
 Copyright©2012 by Dominique Chen, CC Attribution-NonCommercial-ShareAlike 2.1 Japan Printed in Japan
+
 <img src="https://raw.githubusercontent.com/mapconcierge/HowToMakeFreeCulture/master/img/HowToMakeFreeCulture.png" />
 
 Amazon -> http://goo.gl/yFmGSE
