@@ -1,4 +1,4 @@
-How To Make the Free Culture
+Guidebook - How To Make the Free Culture
 ====================
 
 フリーカルチャーをつくるためのガイドブック
