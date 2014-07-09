@@ -2,6 +2,7 @@ Guidebook - How To Make the Free Culture
 ====================
 
 フリーカルチャーをつくるためのガイドブック
+How To Make the Free Culture
 
 Copyright©2012 by Dominique Chen, CC Attribution-NonCommercial-ShareAlike 2.1 Japan Printed in Japan
 
